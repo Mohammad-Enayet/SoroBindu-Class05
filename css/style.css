@@ -1,0 +1,53 @@
+
+thead{
+    background-color: yellow;
+}
+
+h1{
+    color: #661778;
+}
+
+
+
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: #f6b93b;
+}
+.pink{
+    background-color: #ffcccd;
+}
+.sky-blue{
+    background-color: #87ceeb;
+}
+.purple{
+    background-color: #d980fa;
+}
+.green{
+    background-color: #78e08f;
+}
+.light-green{
+    background-color: #c4e538;
+}
+.light-gray{
+    background-color: lightgray;
+}
+
+p{
+    background-color: lightgray;
+    text-align: center;
+    color: #5b35c5;
+    font-size: 18px;
+}
+
+
+.footer-section{
+    color: white;
+    background-color: rgb(55, 231, 55);
+    text-align: center;
+    font-size: 50px;
+}
